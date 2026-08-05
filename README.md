@@ -1,7 +1,7 @@
 # Hi there! | Olá! 👋
 
 ### 🇧🇷 Português
-Sou um desenvolvedor focado em construir soluções eficientes e apaixonado por dados. Tenho experiência sólida em **C**, **Python** e **TypeScript**, utilizando **Git e GitHub** para um controle de versão organizado e colaborativo.
+Sou um desenvolvedor Back-End focado em construir soluções eficientes. Tenho experiência sólida em **C**, **Python** e **TypeScript**, utilizando **Git e GitHub** para um controle de versão organizado e colaborativo.
 
 Atualmente, sou um grande entusiasta de **Machine Learning** e **AutoML**, explorando como a automação pode tornar a inteligência artificial mais acessível e potente.
 
@@ -11,7 +11,7 @@ Atualmente, sou um grande entusiasta de **Machine Learning** e **AutoML**, explo
 ---
 
 ### 🇺🇸 English
-I am a developer focused on building efficient solutions and passionate with data. I have solid experience in **C**, **Python**, and **TypeScript**, using **Git and GitHub** for organized and collaborative version control.
+I am a Back-End developer focused on building efficient solutions. I have solid experience in **C**, **Python**, and **TypeScript**, using **Git and GitHub** for organized and collaborative version control.
 
 Currently, I am a **Machine Learning** and **AutoML** enthusiast, exploring how automation can make artificial intelligence more accessible and powerful.
 
