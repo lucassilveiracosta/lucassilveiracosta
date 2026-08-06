@@ -1,43 +1,48 @@
-# Hi there! | Olá! 👋
+<div align="center">
 
-### 🇧🇷 Português
-Sou um desenvolvedor Back-End focado em construir soluções eficientes. Tenho experiência sólida em **C**, **Python** e **TypeScript**, utilizando **Git e GitHub** para um controle de versão organizado e colaborativo.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:1e3a8a,100:3b82f6&text=Lucas%20Costa&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Atualmente, sou um grande entusiasta de **Machine Learning** e **AutoML**, explorando como a automação pode tornar a inteligência artificial mais acessível e potente.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;BACK-END+DEVELOPER;PYTHON+%7C+Java+%7C+TYPESCRIPT;MACHINE+LEARNING+%7C+AI;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
-- 🚀 Foco atual: Modelos preditivos e otimização de pipelines de dados.
-- 🛠️ Habilidades principais: Lógica de programação, análise de dados e automação.
+</div>
 
----
+<br>
 
-### 🇺🇸 English
-I am a Back-End developer focused on building efficient solutions. I have solid experience in **C**, **Python**, and **TypeScript**, using **Git and GitHub** for organized and collaborative version control.
+<div align="center">
 
-Currently, I am a **Machine Learning** and **AutoML** enthusiast, exploring how automation can make artificial intelligence more accessible and powerful.
+<img src="https://skillicons.dev/icons?i=c,python,ts,js,nestjs,prisma,postgres,mysql,git,github,postman,docker&perline=6"/>
 
-- 🚀 Current focus: Predictive modeling and data pipeline optimization.
-- 🛠️ Core skills: Programming logic, data analysis, and automation.
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+<div align="center">
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
-| **Frameworks/Libs** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) |
-| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) | 
-| **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucassilveiracosta) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) |
+### 👋 Olá! 
+
+Sou o Lucas, tenho 19 anos e curso Ciência da Computação (3º período) na UFRPE. Atualmente atuo como desenvolvedor backend na Seed a Bit, empresa júnior de TI, onde tenho a oportunidade de colocar em prática o que aprendo na faculdade em projetos reais, do planejamento até a entrega, sempre dentro de um fluxo de trabalho com metodologias ágeis.
+
+Trabalhando com backend, tenho contato direto com o que sustenta uma aplicação: APIs, autenticação, banco de dados e a lógica que faz tudo funcionar de forma integrada. Gosto de entender o "porquê" por trás das coisas, não só o "como", e isso me leva a estudar bastante fora da sala de aula — seja aprofundando conceitos técnicos ou explorando novas ferramentas e tecnologias.
+
+Além do desenvolvimento em si, também já atuei ensinando e integrando novos membros na empresa júnior, o que me ajudou a desenvolver comunicação, didática e uma visão mais ampla de como um time funciona na prática.
+
+Estou sempre em busca de novos desafios, projetos e aprendizados — seja em times, contribuições open source ou iniciativas próprias.
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilveiracosta&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucassilveiracosta&show_icons=true&theme=vision-friendly-dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassilveiracosta&theme=vision-friendly-dark" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucassilveiracosta&show_icons=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilveiracosta&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucassilveiracosta&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:1e3a8a,100:3b82f6"/>
