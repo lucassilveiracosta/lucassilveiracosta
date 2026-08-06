@@ -36,12 +36,12 @@ Estou sempre em busca de novos desafios, projetos e aprendizados — seja em tim
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucassilveiracosta&show_icons=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilveiracosta&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucassilveiracosta&show_icons=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilveiracosta&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucassilveiracosta&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true"/>
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassilveiracosta&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true"/>
 
 </div>
 
