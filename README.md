@@ -20,7 +20,7 @@
 
 ### 👋 Olá! 
 
-Sou o Lucas, tenho 19 anos e curso Ciência da Computação (3º período) na UFRPE. Atualmente atuo como desenvolvedor backend na Seed a Bit, empresa júnior de TI, onde tenho a oportunidade de colocar em prática o que aprendo na faculdade em projetos reais, do planejamento até a entrega, sempre dentro de um fluxo de trabalho com metodologias ágeis.
+Sou Lucas, tenho 19 anos e curso Ciência da Computação (3º período) na UFRPE. Atualmente atuo como desenvolvedor backend na Seed a Bit, empresa júnior de Tecnologia, onde tenho a oportunidade de colocar em prática o que aprendo na faculdade em projetos reais, do planejamento até a entrega, sempre dentro de um fluxo de trabalho com metodologias ágeis.
 
 Trabalhando com backend, tenho contato direto com o que sustenta uma aplicação: APIs, autenticação, banco de dados e a lógica que faz tudo funcionar de forma integrada. Gosto de entender o "porquê" por trás das coisas, não só o "como", e isso me leva a estudar bastante fora da sala de aula, seja aprofundando conceitos técnicos ou explorando novas ferramentas e tecnologias.
 
